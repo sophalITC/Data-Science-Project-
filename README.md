@@ -41,4 +41,4 @@ Contributions, bug reports, and feature requests are welcome! Please fork the re
 - Thanks to all the students who have contributed their projects to this educational collection.
 - Special thanks to the data science community for continuous support and guidance.
 
-** &copy; CHAN Sophal
+### &copy; CHAN Sophal
