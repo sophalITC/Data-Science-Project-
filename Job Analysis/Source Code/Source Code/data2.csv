@@ -1,0 +1,1184 @@
+JobType,PositionLevel,Location,WorkingExperience,Qualification,min_age,max_age,Salary_min,Salary_max
+Full Time,Kindergarten,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Fresh,Bavet,1,Professional,18.0,40.0,201.0,500.0
+Full Time,Fresh,Bavet,0,Others,18.0,40.0,201.0,500.0
+Full Time,Fresh,Bavet,0,Others,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Bavet,5,Bachelor,18.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Bavet,2,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Bavet,2,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Bavet,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,0,Others,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Others,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Associate,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Associate,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Fresh,Kampong Cham,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Fresh,Kampong Cham,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,20.0,34.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,0,Bacc2,20.0,35.0,1001.0,1500.0
+Full Time,Fresh,Phnom Penh,2,No,20.0,45.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Bacc2,20.0,35.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,0,Bacc2,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Preah Sihanouk,2,Bachelor,30.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Preah Sihanouk,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Fresh,Kandal,1,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,22.0,30.0,201.0,500.0
+Temporary Contract,Senior Executive,Battambang,2,No,20.0,40.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,2,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Manager,Battambang,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Others,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,28.0,45.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,30.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Manager,Phnom Penh,5,Master,25.0,45.0,1001.0,1500.0
+Full Time,Fresh,Phnom Penh,0,Others,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Others,20.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Associate,20.0,40.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bacc2,22.0,35.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,26.0,1001.0,1500.0
+Full Time,Senior Manager,Preah Sihanouk,5,Bachelor,25.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,1001.0,1500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,20.0,25.0,1001.0,1500.0
+Full Time,Senior Manager,Preah Sihanouk,2,Bacc2,25.0,45.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,20.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,25.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,28.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Associate,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Kampong Chhnang,1,Bachelor,18.0,25.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,30.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,35.0,1001.0,1500.0
+Temporary Contract,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,25.0,45.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,22.0,35.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,Associate,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,30.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,30.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Associate,25.0,35.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,30.0,1001.0,1500.0
+Temporary Contract,Senior Executive,Phnom Penh,5,Bachelor,28.0,45.0,1001.0,1500.0
+Temporary Contract,Senior Executive,Phnom Penh,5,Bachelor,28.0,45.0,1001.0,1500.0
+Temporary Contract,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Master,25.0,30.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,35.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,18.0,50.0,1001.0,1500.0
+Full Time,Fresh,Phnom Penh,2,Bachelor,25.0,35.0,1001.0,1500.0
+Full Time,Senior Executive,Preah Sihanouk,5,Bachelor,25.0,35.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Manager,Preah Sihanouk,5,Bachelor,25.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Associate,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,25.0,40.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,60.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Battambang,1,Bacc2,20.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Associate,18.0,40.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Associate,18.0,30.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,26.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,23.0,30.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,20.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,1001.0,1500.0
+Full Time,Senior Executive,Svay Rieng,0,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,40.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,30.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Train,18.0,32.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,32.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,23.0,29.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,1001.0,1500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Fresh,Poipet,0,Bachelor,21.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Preah Sihanouk,1,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Banteay Meanchey,0,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Cham,1,Bacc2,20.0,45.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Fresh,Battambang,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Preah Sihanouk,2,Bacc2,25.0,40.0,201.0,500.0
+Full Time,Senior Executive,Preah Sihanouk,1,Bacc2,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Battambang,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Associate,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,20.0,38.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,28.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Battambang,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Associate,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Preah Sihanouk,2,Bachelor,23.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,25.0,30.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,23.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,20.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,23.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,23.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,28.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,22.0,28.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,23.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,23.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Kandal,2,Bacc2,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,25.0,30.0,501.0,1000.0
+Temporary Contract,Senior Executive,Battambang,2,Bachelor,20.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Battambang,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Battambang,2,Bachelor,20.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Battambang,0,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,26.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,21.0,35.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,2,Bachelor,28.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Diploma,25.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,28.0,45.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,28.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,28.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Diploma,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,25.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Non-Executive,Preah Sihanouk,0,Bacc2,18.0,50.0,201.0,500.0
+Temporary Contract,Non-Executive,Preah Sihanouk,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Siem Reap,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,30.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,55.0,201.0,500.0
+Full Time,Non-Executive,Kampong Speu,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Non-Executive,Svay Rieng,0,Bachelor,18.0,30.0,501.0,1000.0
+Full Time,Junior Executive,Kandal,1,Bachelor,22.0,29.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,55.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Poipet,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Associate,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,21.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,28.0,45.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Kandal,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Bavet,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,35.0,50.0,1501.0,2000.0
+Full Time,Junior Executive,Bavet,1,Bachelor,20.0,30.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Siem Reap,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,25.0,60.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,20.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Associate,24.0,36.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,23.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,1,Bacc2,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,38.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,27.0,38.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,22.0,26.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,21.0,50.0,201.0,500.0
+Full Time,Senior Manager,Kandal,5,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Cham,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Siem Reap,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,28.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Associate,25.0,48.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Diploma,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,38.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,20.0,25.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Preah Sihanouk,2,Bachelor,18.0,25.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,38.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,22.0,28.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Battambang,0,Bacc2,18.0,50.0,501.0,1000.0
+Part Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,55.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,5,Master,18.0,50.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,40.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,1,Bachelor,22.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Associate,20.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,28.0,201.0,500.0
+Full Time,Junior Executive,Bavet,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Siem Reap,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Senior Executive,Kampong Speu,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Fresh,Siem Reap,1,Associate,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,38.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,25.0,201.0,500.0
+Full Time,Junior Executive,Poipet,2,Bachelor,22.0,45.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,23.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,30.0,45.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Poipet,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Battambang,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Battambang,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bacc2,18.0,30.0,201.0,500.0
+Full Time,Fresh,Poipet,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Fresh,Poipet,0,Bachelor,21.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,20.0,50.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,1,Associate,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Associate,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bacc2,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,27.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Banteay Meanchey,2,Associate,22.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,28.0,45.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,22.0,45.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Associate,20.0,45.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Associate,20.0,45.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Temporary Contract,Non-Executive,Phnom Penh,2,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,25.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Senior Executive,Mondulkiri,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Siem Reap,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,19.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Temporary Contract,Junior Executive,Battambang,2,Bachelor,20.0,40.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,18.0,50.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,35.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Associate,18.0,35.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,30.0,501.0,1000.0
+Full Time,Junior Executive,Mondulkiri,1,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Associate,22.0,32.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Master,25.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,28.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Part Time,Non-Executive,Phnom Penh,0,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Master,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,0,Associate,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Associate,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,70.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Preah Sihanouk,0,Associate,18.0,25.0,1001.0,1500.0
+Full Time,Non-Executive,Preah Sihanouk,0,Associate,18.0,25.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Preah Sihanouk,0,Associate,18.0,25.0,501.0,1000.0
+Full Time,Non-Executive,Preah Sihanouk,0,Associate,18.0,25.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Siem Reap,2,Associate,22.0,30.0,201.0,500.0
+Full Time,Senior Executive,Siem Reap,5,Bachelor,30.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Siem Reap,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,24.0,38.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,38.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,28.0,35.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,33.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,20.0,32.0,501.0,1000.0
+Full Time,Non-Executive,Bavet,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,0,Bacc2,18.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Preah Sihanouk,1,Associate,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Preah Sihanouk,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,28.0,50.0,501.0,1000.0
+Full Time,Fresh,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,26.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,26.0,201.0,500.0
+Full Time,Non-Executive,Battambang,0,Bachelor,18.0,28.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Battambang,0,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Bavet,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,2,Associate,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,22.0,39.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Senior Executive,Koh Kong,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Battambang,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Kampong Speu,0,Associate,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Associate,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,22.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,26.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,26.0,38.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bacc2,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Battambang,2,Associate,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Battambang,0,Associate,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bachelor,18.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Poipet,2,Bachelor,22.0,45.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,50.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,28.0,201.0,500.0
+Full Time,Fresh,Poipet,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,24.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,29.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,24.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Associate,25.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Senior Manager,Siem Reap,2,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,38.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Senior Manager,Bavet,2,Bacc2,25.0,40.0,1001.0,1500.0
+Full Time,Senior Manager,Bavet,2,Bacc2,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Non-Executive,Siem Reap,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Siem Reap,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bacc2,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,1501.0,2000.0
+Full Time,Senior Manager,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,40.0,201.0,500.0
+Full Time,Senior Executive,Battambang,2,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Preah Sihanouk,1,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Mondulkiri,1,Bacc2,25.0,45.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bacc2,30.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,28.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Preah Vihear,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,30.0,201.0,500.0
+Full Time,Senior Executive,Banteay Meanchey,2,Bachelor,18.0,50.0,1501.0,2000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Siem Reap,2,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,22.0,33.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,28.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,22.0,33.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,No,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,0,Bacc2,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,23.0,33.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Poipet,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Poipet,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,40.0,201.0,500.0
+Part Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,No,18.0,26.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,No,18.0,26.0,201.0,500.0
+Full Time,Junior Executive,Preah Vihear,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,No,18.0,30.0,201.0,500.0
+Temporary Contract,Senior Executive,Phnom Penh,2,Bachelor,21.0,28.0,201.0,500.0
+Full Time,Senior Executive,Poipet,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,24.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,26.0,45.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,26.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,45.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,28.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,21.0,32.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,25.0,40.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,29.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Cambodia,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,No,18.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,28.0,201.0,500.0
+Full Time,Junior Executive,Poipet,2,Bachelor,35.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,23.0,43.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,22.0,38.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,30.0,201.0,500.0
+Full Time,Junior Executive,Mondulkiri,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bacc2,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,30.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,8,Professional,18.0,50.0,1501.0,2000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,2,Master,18.0,50.0,1001.0,1500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,27.0,28.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Thom,1,Bacc2,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,22.0,45.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,20.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,No,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,No,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,45.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,8,Associate,25.0,45.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Master,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,28.0,35.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,45.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,27.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Junior Executive,Poipet,2,Bacc2,23.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,38.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Associate,18.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,No,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,23.0,45.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,45.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,20.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,20.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,0,Associate,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,30.0,40.0,1001.0,1500.0
+Full Time,Senior Executive,Kampong Speu,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,24.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,23.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,45.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Associate,20.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,38.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,50.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bachelor,26.0,40.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,22.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,2,Bachelor,26.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bacc2,25.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Master,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Svay Rieng,2,Bachelor,23.0,30.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,20.0,48.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,50.0,201.0,500.0
+Full Time,Senior Executive,Pursat,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,25.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Master,23.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,No,25.0,45.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,20.0,45.0,201.0,500.0
+Full Time,Non-Executive,Siem Reap,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,0,Associate,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Kampong Speu,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,30.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,1,Associate,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Preah Sihanouk,1,Bachelor,26.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Poipet,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Poipet,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,No,18.0,45.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,20.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Kandal,1,Associate,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,33.0,39.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,33.0,39.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,8,Master,25.0,45.0,1501.0,2000.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,45.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Siem Reap,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Tbong Khmum,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Svay Rieng,2,Bachelor,23.0,30.0,201.0,500.0
+Full Time,Junior Executive,Svay Rieng,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Pursat,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Cham,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Bavet,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Bavet,1,Bachelor,23.0,50.0,201.0,500.0
+Full Time,Non-Executive,Bavet,0,Bachelor,18.0,30.0,501.0,1000.0
+Full Time,Non-Executive,Bavet,0,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Diploma,18.0,45.0,201.0,500.0
+Full Time,Non-Executive,Siem Reap,0,Associate,22.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,26.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,19.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Master,23.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,20.0,35.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,18.0,50.0,1501.0,2000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Battambang,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,Master,20.0,30.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,28.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,8,Bachelor,25.0,45.0,1501.0,2000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Preah Sihanouk,0,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,20.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,33.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,33.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Preah Sihanouk,1,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Master,18.0,50.0,1001.0,1500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,1,Bachelor,22.0,45.0,201.0,500.0
+Full Time,Junior Executive,Battambang,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,1,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,40.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,22.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Battambang,2,Bachelor,20.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Fresh,Phnom Penh,1,Bachelor,25.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,45.0,1001.0,1500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,5,Bachelor,30.0,38.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,5,Bachelor,28.0,45.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,0,No,20.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,No,23.0,50.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,No,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Preah Sihanouk,1,No,25.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Associate,25.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,30.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,5,Bachelor,35.0,40.0,201.0,500.0
+Full Time,Junior Executive,Kampong Speu,0,Bachelor,26.0,35.0,1001.0,1500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,40.0,501.0,1000.0
+Full Time,Junior Executive,Kampot,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,5,Bachelor,18.0,50.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,2,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,25.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,18.0,40.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,45.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,1,Bachelor,20.0,30.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,25.0,35.0,501.0,1000.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,24.0,35.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,1,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Manager,Phnom Penh,2,Bachelor,27.0,45.0,1001.0,1500.0
+Full Time,Non-Executive,Phnom Penh,1,Bachelor,18.0,24.0,201.0,500.0
+Full Time,Non-Executive,Phnom Penh,2,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,0,Bachelor,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,50.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,40.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,1,Bacc2,18.0,45.0,201.0,500.0
+Full Time,Junior Executive,Phnom Penh,2,Bachelor,18.0,50.0,501.0,1000.0
+Full Time,Senior Executive,Phnom Penh,2,Bachelor,25.0,35.0,201.0,500.0

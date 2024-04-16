@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Price Prediction - Result</title>
+</head>
+<body>
+    <h2>Prediction Results</h2>
+    <img src="data:image/png;base64,{{ image_base64 }}" alt="Prediction Plot">
+    <h3>Predicted Prices</h3>
+    {{ result_table|safe }}
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Price Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+        .container {
+            margin-top: 30px;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Stock Price Prediction</h1>
+
+        <form method="POST" action="/predict">
+            <div class="form-group">
+ <label for="start_date">Start Date:</label>
+ <input type="date" id="start_date" name="start_date" class="form-control" required>
+            </div>
+            <div class="form-group">
+ <label for="end_date">End Date:</label>
+ <input type="date" id="end_date" name="end_date" class="form-control" required>
+            </div>
+            <div class="form-group">
+ <label for="model">Choose a Model:</label>
+ <select id="model" name="model" class="form-control" required>
+                    <option value="ARIMA">ARIMA</option>
+                    <option value="ETS">ETS</option>
+ </select>
+            </div>
+            <center>
+ <button type="submit" class="btn btn-primary">Predict</button>
+            </center>
+        </form>
+
+        {% if image_base64 %}
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            <img src="data:image/png;base64,{{ image_base64 }}" alt="Actual vs. Predicted Prices" class="img-rounded">
+        </div>
+        {% endif %}
+
+        {% if result_table %}
+        <table class="table">
+            <thead class="thead-light">
+ <tr>
+                    <th scope="col">Date</th>
+                    <th scope="col">Predicted Price</th>
+ </tr>
+            </thead>
+            <tbody>
+ {{ result_table|safe }}
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,1527 @@
+locations ,model,year,tax type,condition,color,price,fuel_type,transmission,cylinders,engine_displacement,fuel_injection,fuel_tank_capacity,maximum_power,maximum_torque,kl
+phnom penh,scoopy i,8,0,1,white,680,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,9,0,1,black,990,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,8,0,1,red,950,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,2,0,1,black,1680,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,black,1790,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,9,0,1,white,920,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,red,1040,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,white,970,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,4,0,1,white,1560,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+siem reap,scoopy i,2,0,1,red,1962,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,7,0,1,white,810,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,5,0,1,white,300,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,7,0,1,white,980,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,2,0,1,white,2030,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,1699,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,black,1750,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,black,1580,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1530,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,7,0,1,black,1030,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,blue,2180,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,black,2040,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,red,2070,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,10,0,1,white,860,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,10,0,1,white,880,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,9,0,1,white,860,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,2,0,1,white,2080,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,9,0,1,red,780,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,1,0,1,white,2180,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,white,800,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,2,0,1,black,1590,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,black,2190,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,1650,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,8,0,1,white,980,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,5,0,1,gray,1568,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,5,0,1,green,1470,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,4,0,1,white,1548.4,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,white,2107,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,9,0,1,white,990,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,2,0,1,white,1813,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,gray,2077.6,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,black,1850,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1650,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,1,1,silver,1499,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,9,0,1,white,700,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,2,0,1,white,1630,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,10,0,1,black,500,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,3,0,1,white,1800,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,9,0,1,white,1050,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,red,1150,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,7,0,1,white,1050,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,white,1100,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,10,0,1,white,1050,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,5,0,1,white,1050,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,8,0,1,red,1080,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,9,0,1,black,1050,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,9,0,1,black,980,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,8,0,1,gray,1050,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,7,0,1,white,830,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,7,0,1,white,990,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,red,960,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,2,0,1,white,2070,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,1690,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,black,1760,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,black,2050,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,red,2040,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,2040,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,white,2190,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,10,0,1,red,839,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,4,0,1,white,1595,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,1,0,1,gray,2250,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,0,1,red,1550,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,9,0,1,orange,850,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,3,0,1,white,1700,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,black,1690,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1570,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,white,1700,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,2050,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,white,1250,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,2130,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,white,1830,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,white,1980,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,5,0,1,red,1620,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,1,0,1,blue,2080,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,black,1570,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,9,0,1,red,1050,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,red,980,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,3,0,1,other,1550,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,red,2050,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,1899,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,white,1790,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,white,2299,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,0,1,red,1680,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,0,1,blue,1580,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,1,0,1,red,2100,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+kandal,scoopy i,7,0,1,red,1000,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,7,0,1,white,970,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,white,1850,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,black,1050,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,5,0,1,white,1250,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,8,0,1,red,930,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,8,0,1,white,800,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,3,0,1,white,1670,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,9,0,1,white,950,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,other,1290,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,10,0,1,white,770,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,5,0,1,white,1480,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,0,1,white,2090,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,red,2090,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,blue,1780,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,4,0,1,red,1660,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,0,1,blue,1590,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,7,0,1,white,1230,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,9,0,1,white,1020,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,8,0,1,white,850,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,2,0,1,blue,2000,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,white,2230,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,10,0,1,red,680,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,1,0,1,black,1970,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,5,0,1,white,1550,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,0,1,white,1780,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,white,2300,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,white,2250,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,red,2250,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,white,1980,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,black,1770,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,black,2150,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,3,0,1,white,1600,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,8,0,1,white,775,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,8,0,1,white,968.24,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,4,0,1,black,1650,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,white,1999,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,white,1799,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,7,0,1,black,1200,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,white,950,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,white,950,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,3,0,1,red,1600,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,5,0,1,white,1650,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+siem reap,scoopy i,2,0,1,white,1750,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1630,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,3,0,1,black,1880,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,white,2350,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,red,1050,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,white,1000,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,5,0,1,orange,330,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,7,0,1,white,850,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,white,750,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,6,0,1,silver,300,Gasoline,Auto,1,110,Yes,3.7,8.2,8.4,50
+phnom penh,scoopy i,2,0,1,white,2180,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,7,0,1,red,1280,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,3,0,1,white,1930,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,1,1,white,2080,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,5,1,1,black,1730,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,10,0,1,white,980,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,3,0,1,white,1730,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,white,1990,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+siem reap,scoopy i,7,0,1,white,880,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,9,0,1,black,850,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,5,0,1,red,1480,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,1,0,1,white,2200,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,3,0,1,black,1930,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,3,0,1,green,1580,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,9,0,1,white,720,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,3,0,1,white,1750,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,5,0,1,white,1490,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,4,0,1,white,1600,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,white,2100,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,5,0,1,white,1600,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,3,0,1,white,1780,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,4,0,1,white,1736,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,1,1,1,white,1525,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,1,1,red,1589,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,1,1,red,1489,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,1,1,blue,2056,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,1,1,white,1999,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,1,1,white,1678,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,1,1,black,1166,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,4,1,1,white,1789,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,4,0,1,black,1735,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,1,1,white,1727,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,1,1,white,2189,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,1,1,green,1567,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,1010,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,white,1490,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,black,980,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1390,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,white,1755,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,red,1730,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,1985,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,white,2100,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,0,1,white,1645,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,red,1750,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,brown,1620,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,black,1660,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,white,1930,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,5,0,1,red,1440,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,1,0,1,green,2300,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,gray,2220,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,1740,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,red,2222,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,9,0,1,red,800,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,1,0,1,black,1850,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,2190,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,6,0,1,red,1100,Gasoline,Auto,1,110,Yes,3.7,8.2,8.4,50
+phnom penh,scoopy i,4,0,1,white,1580,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,8,0,1,red,1189,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,5,1,1,white,1680,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,7,0,1,white,1280,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,4,0,1,black,1789,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,4,1,1,white,1830,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,3,1,1,black,1930,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,red,2080,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,8,0,1,white,1180,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,1,0,1,white,2280,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,1900,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,5,0,1,white,920,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,0,1,red,1980,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,black,1730,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+siem reap,scoopy i,4,0,1,white,1665,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,10,0,1,white,850,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,2,0,1,white,1500,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,7,0,1,white,920,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,red,2050,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,black,650,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,2,0,1,white,1600,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1240,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,3,0,1,red,1500,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,8,0,1,white,830,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,4,1,1,white,1750,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+siem reap,scoopy i,2,0,1,white,1890,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,black,2100,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,10,0,1,other,850,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,8,0,1,other,850,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,9,0,1,other,850,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,1,0,1,black,1500,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,8,0,1,white,840,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,1,0,1,red,1255,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,0,1,red,1600,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,10,0,1,white,670,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,3,1,1,blue,1650,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,black,2280,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,3,0,1,other,1690,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,9,0,1,white,870,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,3,1,1,white,1823.6,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,9,0,1,other,890,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,red,880,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+kandal,scoopy i,9,0,1,white,850,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,4,0,1,white,1490,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,3,0,1,white,1680,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,black,1900,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,black,1780,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,black,2130,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,4,0,1,black,1350,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,7,0,1,red,330,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,white,1800,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,red,800,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,black,1800,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+siem reap,scoopy i,7,0,1,white,895,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,black,290,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,7,0,1,white,940,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,3,0,1,other,1680,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,white,1860,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,9,0,1,white,380,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,2,0,1,red,1850,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,9,0,1,white,750,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,3,0,1,white,1770,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,white,1880,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,white,1530,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,red,1420,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,7,0,1,black,880,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,5,0,1,white,1450,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+battambang,scoopy i,3,0,1,white,1850,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,8,0,1,white,690,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,10,0,1,white,799,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,8,0,1,other,150,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+kampong cham,scoopy i,2,0,1,white,1690,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,4,0,1,white,1568,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,8,1,1,red,850,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,3,0,1,white,1430,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,4,0,1,white,1450,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,8,0,1,red,870,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,8,0,1,red,720,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,10,0,1,white,899,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,10,0,1,white,720,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,3,0,1,other,1580,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,3,0,1,blue,1650,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,3,0,1,white,1550,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,blue,1680,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,9,0,1,yellow,860,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+banteay meanchey,scoopy i,9,0,1,black,720,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,white,1250,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,blue,1850,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,gold,850,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,0,1,white,990,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,3,0,1,white,1450,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,white,2150,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,3,0,1,red,1750,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,3,0,1,white,1876.05,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,black,890.1,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,10,0,1,blue,890,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,6,0,1,white,480,Gasoline,Auto,1,110,Yes,3.7,8.2,8.4,50
+phnom penh,scoopy i,1,0,1,red,1950,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,3,0,1,white,1980,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,2,0,1,beige,1780,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,7,0,1,beige,800,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,4,1,1,white,1810,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,0,1,blue,1250,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,0,1,white,1800,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,8,1,1,other,990,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,8,1,1,other,710,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,8,1,1,red,990,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,3,0,1,blue,1680,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,4,0,1,gray,1650,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,0,1,white,1000,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,5,1,1,white,1380,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+kandal,scoopy i,5,0,1,black,1450,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,3,1,1,black,1800,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,beige,1850,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,8,0,1,white,890,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,5,0,1,white,1290,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,2,0,1,white,1750,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,3,0,1,white,1850,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,black,2300,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+banteay meanchey,scoopy i,8,0,1,white,810,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,4,0,1,red,1480,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+siem reap,scoopy i,4,0,1,blue,1470,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,4,0,1,red,1453.5,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+kampong speu,scoopy i,3,0,1,white,1600,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,10,1,1,white,600,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,10,0,1,black,960,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,9,0,1,white,740,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,1,0,1,blue,2160,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,white,2260,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,black,1880,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,black,1900,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,gold,2170,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,7,0,1,red,780,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,1,0,1,blue,2400,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,white,2050,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,red,2300,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,8,0,1,black,750,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,5,0,1,red,1250,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,5,0,1,white,1500,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+siem reap,scoopy i,8,0,1,red,880,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,5,0,1,white,370,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,3,0,1,white,1900,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,1,1,white,2050,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,1,0,1,white,1900,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+siem reap,scoopy i,1,0,1,brown,2280,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,9,0,1,white,680,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,7,0,1,white,870,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,8,1,1,yellow,1100,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,7,1,1,red,1650,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,7,1,1,white,850,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,4,0,1,white,1470,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,5,1,1,red,1300,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,1,1,1,gold,1950,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,2,0,1,red,1680,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,red,1900,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,9,0,1,black,780,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,1,0,1,red,1850,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+siem reap,scoopy i,1,0,1,red,2250,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+kandal,scoopy i,2,0,1,black,1730,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,2,0,1,blue,2050,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+phnom penh,scoopy i,1,0,1,gray,2150,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,10,0,1,white,902.1,Gasoline,Auto,1,110,Yes,3.7,7.8,8,42
+phnom penh,scoopy i,9,0,1,black,800,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,3,0,1,black,1500,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,3,1,1,blue,1732.5,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,1,0,1,blue,2350,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+phnom penh,scoopy i,6,0,1,gold,850,Gasoline,Auto,1,110,Yes,3.7,8.2,8.4,50
+phnom penh,scoopy i,1,0,1,red,1750,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+siem reap,scoopy i,9,0,1,white,780,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+preah sihanouk,scoopy i,1,0,1,black,1850,Gasoline,Auto,1,110,Yes,3.7,8.7,8.9,60
+preah sihanouk,scoopy i,9,0,1,white,450,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,9,1,1,white,899,Gasoline,Auto,1,110,Yes,3.7,7.9,8.1,44
+phnom penh,scoopy i,5,0,1,white,1350,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,4,0,1,red,1650,Gasoline,Auto,1,110,Yes,3.7,8.4,8.6,54
+phnom penh,scoopy i,2,0,1,white,1950,Gasoline,Auto,1,110,Yes,3.7,8.6,8.8,58
+banteay meanchey,scoopy i,8,0,1,blue,500,Gasoline,Auto,1,110,Yes,3.7,8,8.2,46
+phnom penh,scoopy i,3,0,1,white,1710,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,6,0,1,black,800,Gasoline,Auto,1,110,Yes,3.7,8.2,8.4,50
+kampong chhnang,scoopy i,7,0,1,white,1040,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,5,1,1,white,111,Gasoline,Auto,1,110,Yes,3.7,8.3,8.5,52
+phnom penh,scoopy i,7,0,1,black,850,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+siem reap,scoopy i,3,0,1,white,1750,Gasoline,Auto,1,110,Yes,3.7,8.5,8.7,56
+phnom penh,scoopy i,7,0,1,white,750,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,scoopy i,7,0,1,white,700,Gasoline,Auto,1,110,Yes,3.7,8.1,8.3,48
+phnom penh,dream,3,0,1,black,1600,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,7,0,1,blue,1280,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,2,0,1,black,1880,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,1,0,1,black,2200,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,white,1690,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1690,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,black,1520,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,9,0,1,black,750,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+siem reap,dream,5,0,1,black,1390,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,5,0,1,black,1380,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,3,0,1,black,1550,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,3,0,1,black,1630,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,7,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,3,0,1,red,1650,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,5,0,1,black,1320,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,5,0,1,black,1500,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,3,0,1,other,1750,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,2050,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,5,0,1,black,1200,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+siem reap,dream,10,0,1,black,880,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,7,0,1,other,1260,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,2,0,1,black,1580,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,3,0,1,black,1680,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,5,0,1,black,1400,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+siem reap,dream,5,0,1,black,1800,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+siem reap,dream,4,0,1,black,1800,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+siem reap,dream,3,0,1,black,2100,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,3,0,1,black,1613.7,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,2240,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,10,0,1,black,890,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+siem reap,dream,8,0,1,black,1150,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+siem reap,dream,1,0,1,black,2400,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,7,0,1,black,1280,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,3,0,1,black,1750,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,980,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,6,0,1,black,1200,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,6,0,1,black,1480,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,7,0,1,black,1250,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+siem reap,dream,6,0,1,silver,185,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,2,0,1,black,2035,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,3,0,1,black,980,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,5,0,1,black,850,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,6,0,1,black,1600,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,10,0,1,black,1100,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,2,0,1,black,1800,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,6,0,1,black,1500,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,3,0,1,black,1800,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,9,0,1,black,1020,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,4,0,1,black,1678,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,3,0,1,white,1450,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,8,0,1,black,900,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,6,0,1,black,1250,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,1,0,1,black,1950,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,black,1380,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,3,0,1,black,1310,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1880,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,1,0,1,black,2100,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,6,0,1,black,1270,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+siem reap,dream,4,0,1,black,1420,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+siem reap,dream,5,0,1,black,1330,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,4,1,1,gold,1390,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,5,0,1,black,1530,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,8,0,1,black,920,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+kampong cham,dream,3,0,1,black,1400,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,5,0,1,gray,1250,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,9,0,1,black,830,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,3,0,1,beige,780,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1700,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,1,0,1,black,1750,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,4,0,1,black,1360,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,5,0,1,red,1400,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,2,0,1,black,730,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+kampong chhnang,dream,10,0,1,black,700,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,7,0,1,red,1000,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+siem reap,dream,1,0,1,black,2250,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,1,0,1,black,2330,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kandal,dream,9,0,1,black,850,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,9,0,1,other,950,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,8,0,1,other,950,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,6,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,4,0,1,black,1300,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,7,0,1,black,1099,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,3,0,1,black,1650,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,red,1850,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,black,1300,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,7,0,1,black,950,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,7,0,1,black,1100,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,7,0,1,black,1290,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,1,0,1,red,2099,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,8,0,1,red,150,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,1,0,1,beige,1880,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,2,0,1,black,2150,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+siem reap,dream,1,0,1,black,2300,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,5,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+kandal,dream,5,0,1,black,300,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,1,0,1,black,2380,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,10,0,1,black,900,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,6,0,1,black,1070,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,8,0,1,black,800,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,6,0,1,black,950,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,7,0,1,blue,950,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,7,0,1,black,980,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,6,0,1,black,1100,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,1,0,1,black,1800,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,white,1250,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,7,0,1,red,980,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,8,0,1,black,850,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+siem reap,dream,7,0,1,black,1190,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+preah vihear,dream,3,0,1,black,750,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,2,0,1,blue,840,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+preah sihanouk,dream,8,0,1,black,800,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+siem reap,dream,3,0,1,black,1740,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,4,0,1,beige,730,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,2,0,1,black,1630,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,9,0,1,black,980,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,1,0,1,black,1970,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,2,0,1,black,1750,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,3,0,1,black,1530,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,10,0,1,black,790,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,8,0,1,black,760,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,7,0,1,black,1120,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,5,0,1,red,1440,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+kandal,dream,3,0,1,red,1290,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,9,0,1,black,1000,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,5,0,1,blue,1350,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+kandal,dream,2,0,1,black,1730,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,5,0,1,black,1280,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+kandal,dream,8,0,1,black,990,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+kandal,dream,6,0,1,black,1270,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,4,0,1,black,1610,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,2,0,1,black,1850,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+siem reap,dream,9,0,1,black,990,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+takeo,dream,5,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+siem reap,dream,1,0,1,black,2350,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,5,0,1,black,1100,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,7,0,1,black,1020,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,6,0,1,black,1020,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,6,1,1,black,970,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,5,0,1,black,1550,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,1,0,1,blue,1850,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,black,1200,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1890,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kandal,dream,10,0,1,black,850,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,6,0,1,black,1090,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,7,0,1,black,1150,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,7,0,1,black,995,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,8,0,1,black,1300,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,7,0,1,blue,700,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,3,0,1,black,1140,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,3,0,1,white,1530,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,3,0,1,red,1580,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+pailin,dream,3,0,1,black,1650,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,2390,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+prey veng,dream,4,0,1,red,130,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,2,0,1,beige,1580,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,1,0,1,black,2300,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,7,1,1,black,950,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,1,1,1,black,1850,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,5,0,1,black,1370,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,3,0,1,black,1320,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1820,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+oddar meanchey,dream,4,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,6,0,1,black,1080,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,4,0,1,beige,1280,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,6,0,1,black,1280,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,1,0,1,black,2290,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+prey veng,dream,9,0,1,black,980,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+prey veng,dream,7,0,1,black,1150,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,2,0,1,black,1820,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+preah sihanouk,dream,2,0,1,black,1600,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+kampong speu,dream,3,0,1,black,920,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,3,0,1,beige,1330,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,8,1,1,black,850,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+tboung khmum,dream,5,0,1,black,1380,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+preah sihanouk,dream,2,1,1,black,1600,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,4,0,1,black,1370,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,3,0,1,black,1386,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,2150,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,5,1,1,black,1200,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+siem reap,dream,3,1,1,black,1600,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,4,0,1,black,1400,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,6,1,1,black,1050,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,8,1,1,red,950,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,4,0,1,black,1450,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,3,0,1,black,1309.5,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1851.3,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kandal,dream,1,0,1,black,1980,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,6,0,1,black,1030,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,6,0,1,black,1040,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,4,1,1,black,1400,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,10,0,1,red,950,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,6,0,1,black,1109,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,1,0,1,black,1870,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,2,0,1,black,1650,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,10,0,1,black,1050,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,4,0,1,black,1630,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+preah sihanouk,dream,7,0,1,black,1000,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,4,0,1,black,990,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,4,0,1,black,1750,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+preah sihanouk,dream,3,0,1,black,1520,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,7,0,1,blue,650,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,7,1,1,black,1080,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,4,0,1,black,1480,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,7,0,1,black,1000,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,3,1,1,black,1861.2,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,9,0,1,black,900,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,10,0,1,black,1300,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,1,1,1,brown,1399,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,1,0,1,other,1850,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,1,0,1,black,2190,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kampot,dream,6,0,1,black,1200,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+siem reap,dream,9,0,1,black,999,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+siem reap,dream,5,0,1,black,1680,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,1,0,1,black,1850,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,3,0,1,black,1420,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,8,1,1,black,950,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+kandal,dream,1,0,1,black,2180,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kampot,dream,8,0,1,black,750,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,6,1,1,blue,1050,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,8,1,1,blue,800,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,10,0,1,black,1001,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,9,0,1,red,250,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,7,0,1,other,650,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,4,0,1,black,1220,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,8,0,1,beige,950,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+preah sihanouk,dream,6,0,1,black,1000,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+kampong speu,dream,3,0,1,black,1400,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,10,0,1,black,920,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,dream,4,0,1,black,1200,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+kampong cham,dream,2,0,1,black,1050,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,5,0,1,black,1325.61,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+phnom penh,dream,8,0,1,black,1050,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,1,0,1,black,2220,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,1,0,1,black,2490,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,2,0,1,black,1620,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,2,0,1,black,1600,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,9,0,1,white,870,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,1,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,7,0,1,black,1330,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+siem reap,dream,6,0,1,black,1340,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,3,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+takeo,dream,4,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+prey veng,dream,8,0,1,black,1100,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+preah sihanouk,dream,3,0,1,black,1450,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,2,0,1,black,1550,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,3,0,1,black,1500,Gasoline,Manual,1,110,Yes,8,8.1,8.89,56
+phnom penh,dream,1,0,1,black,1900,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,5,0,1,black,1450,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+kampong thom,dream,10,0,1,black,970.2,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+prey veng,dream,4,0,1,red,1600.17,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+prey veng,dream,6,0,1,blue,1250,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+prey veng,dream,8,0,1,black,995,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+kampong cham,dream,4,0,1,black,1350,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,1,0,1,black,2250,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kampong cham,dream,1,0,1,black,1430,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+siem reap,dream,1,0,1,black,2480,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+phnom penh,dream,5,0,1,black,1220,Gasoline,Manual,1,110,Yes,8,7.9,8.69,52
+kampong cham,dream,2,0,1,black,1670,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+stung treng,dream,4,0,1,black,1500,Gasoline,Manual,1,110,Yes,8,8,8.79,54
+phnom penh,dream,10,0,1,black,970,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+kandal,dream,1,0,1,black,2100,Gasoline,Manual,1,110,Yes,8,8.3,9.09,60
+kampong chhnang,dream,2,0,1,black,1720,Gasoline,Manual,1,110,Yes,8,8.2,8.99,58
+phnom penh,dream,8,0,1,black,1090,Gasoline,Manual,1,110,Yes,8,7.6,8.39,46
+phnom penh,dream,9,0,1,black,930,Gasoline,Manual,1,110,Yes,8,7.5,8.29,44
+phnom penh,dream,7,0,1,black,1180,Gasoline,Manual,1,110,Yes,8,7.7,8.49,48
+phnom penh,dream,6,0,1,black,800,Gasoline,Manual,1,110,Yes,8,7.8,8.59,50
+phnom penh,dream,10,0,1,black,870,Gasoline,Manual,1,110,Yes,8,7.4,8.19,42
+phnom penh,pcx,2,0,1,gray,3030,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,1,1,black,2800,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,1,0,1,white,3350,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+siem reap,pcx,4,0,1,white,2350,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,8,0,1,white,1750,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,8,0,1,black,1540,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,6,0,1,red,1850,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,7,0,1,white,1690,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,10,0,1,red,1190,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,8,0,1,white,1800,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,7,0,1,white,1780,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,6,0,1,white,1980,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,2,0,1,white,3600,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,2,1,1,black,3450,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,4,0,1,white,2280,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,silver,1200,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,3,0,1,silver,2700,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,8,0,1,white,900,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,10,1,1,white,1380,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,8,0,1,black,1555,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,6,0,1,white,1645,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,6,0,1,white,1745,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,7,0,1,white,1595,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,8,0,1,white,1515,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,3,0,1,silver,2450,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,5,0,1,white,2380,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,6,1,1,other,1580,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,2,1,1,other,3650,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,8,0,1,other,1490,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,8,0,1,other,1390,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,10,0,1,other,1180,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,8,0,1,other,1750,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,8,0,1,black,1560,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,3,0,1,white,2600,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,9,1,1,white,1880,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,2,1,1,white,3450,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,4,1,1,white,2750,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,white,2550,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,6,0,1,white,1900,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,5,1,1,white,2700,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,4,0,1,white,2600,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,other,2499,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,white,2150,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,5,0,1,gray,2350,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,2,0,1,white,3180,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,2,1,1,white,3500,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,2,0,1,white,3050,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,1,0,1,white,3280,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,2,0,1,gray,2970,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,9,1,1,white,1980,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,2,1,1,gray,3550,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,7,0,1,white,1350,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,4,1,1,white,2680,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,8,0,1,other,990,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,9,0,1,black,1580,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,6,0,1,white,2480,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,2,0,1,white,3199,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,0,1,white,2549,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,4,0,1,white,3149,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,black,2499,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,6,0,1,red,1880,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,5,0,1,black,1959.02,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,5,1,1,blue,2850,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,0,1,white,1450,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,8,0,1,silver,1780,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,1,0,1,black,3580,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,1,0,1,white,3550,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,7,0,1,white,1560,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,10,0,1,white,1020,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,4,0,1,gold,2750,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,red,2900,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,8,1,1,white,1900,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,4,0,1,white,2470,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,black,2450,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,9,0,1,black,1485,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,3,0,1,white,2650,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,8,0,1,black,1550,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,6,0,1,white,1800,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,9,0,1,black,1800,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,6,0,1,white,2100,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,2,1,1,red,3480,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,9,1,1,white,1950,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,4,0,1,white,1366,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,1,0,1,blue,3589,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,5,0,1,white,2456,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,5,0,1,white,2399,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,2,1,1,black,3478,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,2,1,1,gray,3456,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,7,0,1,black,1450,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,5,0,1,black,2400,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,7,0,1,white,1820,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,4,0,1,blue,2490,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,6,0,1,black,2300,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,2,0,1,white,3350,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,6,0,1,white,1750,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+kandal,pcx,5,0,1,white,2470,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,5,0,1,red,1900,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,10,0,1,white,850,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,4,0,1,white,2450,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+kandal,pcx,1,0,1,gray,3111,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,4,0,1,white,2300,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,white,2180,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,9,0,1,white,1550,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,8,0,1,white,1250,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+takeo,pcx,7,0,1,white,1800,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,5,0,1,white,2290,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,0,1,other,1380,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,2,1,1,white,3480,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,2,0,1,gray,3470,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,6,1,1,white,1800,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,10,0,1,other,1050,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,3,0,1,white,2550,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,4,0,1,white,2380,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,black,2150,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,white,2180,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,1,0,1,white,3380,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,7,0,1,white,1450,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,10,1,1,gray,2200,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,5,0,1,red,1950,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,4,0,1,white,2250,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,8,0,1,white,1680,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,5,0,1,white,2100,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+siem reap,pcx,9,0,1,black,820,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,8,0,1,white,1510,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,7,0,1,red,1640,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,9,0,1,silver,1490,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,5,0,1,black,2350,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,1,1,white,1880,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,4,0,1,white,2290,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,2,0,1,white,3430,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,0,1,black,2190,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,1,1,1,black,3900,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,5,0,1,white,2500,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,3,0,1,white,2500,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,3,0,1,white,2580,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,5,1,1,white,1950,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,4,1,1,red,2650,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,6,1,1,black,2380,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,5,0,1,white,2340,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,10,0,1,black,950,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,3,0,1,blue,2470,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,7,0,1,red,1480,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,7,0,1,white,1580,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,1,0,1,red,3700,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+kandal,pcx,3,0,1,white,2100,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,2,1,1,red,3260,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,0,1,silver,2050,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+kandal,pcx,7,0,1,red,1300,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,9,0,1,white,1500,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,1,0,1,white,3850,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,5,0,1,white,1950,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,10,0,1,white,1050,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,3,1,1,blue,3350,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,8,1,1,white,1930,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,2,1,1,black,3550,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+battambang,pcx,4,0,1,black,2600,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,red,2770,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,8,0,1,white,1500,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+kandal,pcx,2,0,1,white,2900,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+takeo,pcx,7,0,1,white,1650,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,1,0,1,white,3700,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+kampong speu,pcx,10,0,1,white,780,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+preah sihanouk,pcx,9,0,1,white,1530,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,8,0,1,white,1600,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,2,1,1,white,3700,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,6,0,1,white,1780,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+kandal,pcx,10,0,1,white,1200,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,8,0,1,white,1390,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,2,1,1,white,3350,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,0,1,white,2370,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,0,1,white,1400,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,6,0,1,black,1900,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,4,1,1,red,3350,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,6,0,1,white,1380,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,4,0,1,white,3150,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+kandal,pcx,7,0,1,white,1750,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,6,0,1,white,1850,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,9,0,1,white,1650,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,2,0,1,black,3580,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,0,1,white,1900,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,0,1,white,1300,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,3,1,1,black,3000,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,4,1,1,gold,2800,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,gray,2200,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,7,0,1,white,1400,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,3,0,1,black,2750,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,2,1,1,white,3600,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,1,0,1,red,1980,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,1,0,1,white,2200,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,9,0,1,black,1472.94,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,7,0,1,white,1700,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,5,1,1,white,2750,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+svay rieng,pcx,10,0,1,white,780,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+kandal,pcx,4,0,1,white,2190,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,4,0,1,white,3200,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,2,0,1,black,3300,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,5,0,1,white,2125,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+kandal,pcx,4,0,1,red,2300,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,white,2530,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,0,1,white,1550,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,1,0,1,white,3600,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,9,0,1,gray,1480,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,9,0,1,white,1411,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,4,0,1,white,2500,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,2,0,1,black,3450,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,7,0,1,white,1470,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,9,0,1,white,1680,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,2,1,1,white,3900,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+kandal,pcx,5,0,1,white,2150,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+preah sihanouk,pcx,9,0,1,white,1450,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,6,1,1,white,2150,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,4,0,1,white,2400,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,white,2000,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,6,0,1,white,1550,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,10,0,1,white,1000,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,6,1,1,red,1750,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,5,0,1,black,2390,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,10,0,1,blue,1080,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,3,0,1,gray,3450,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,4,0,1,black,2800,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,0,1,white,2250,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,3,0,1,white,2000,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+siem reap,pcx,10,0,1,white,1100,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,10,0,1,other,1259,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,2,0,1,white,3550,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,7,0,1,white,1570,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,7,0,1,white,1500,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,3,0,1,white,3000,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,3,0,1,white,2800,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,5,0,1,black,2220,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,1,0,1,white,3580,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,7,0,1,white,740,Gasoline,Auto,1,157,Yes,8,15.2,14.4,43
+phnom penh,pcx,5,0,1,black,2100,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,2,0,1,white,3380,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,8,0,1,silver,1480,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,10,1,1,gold,1250,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,2,0,1,other,3700,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,9,0,1,white,1750,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,6,0,1,white,1100,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,1,0,1,white,3300,Gasoline,Auto,1,157,Yes,8,15.8,15,55
+phnom penh,pcx,4,1,1,white,2980,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,5,1,1,white,3150,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,2,1,1,black,3680,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,2,1,1,white,3680,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,10,0,1,white,980,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,5,1,1,white,2250,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,6,0,1,black,168,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,8,0,1,white,1420,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,4,0,1,white,2740,Gasoline,Auto,1,157,Yes,8,15.5,14.7,49
+phnom penh,pcx,9,0,1,white,1690,Gasoline,Auto,1,157,Yes,8,15,14.2,39
+phnom penh,pcx,8,0,1,white,2350,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,5,0,1,white,2300,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,8,0,1,blue,1250,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,3,0,1,white,2050,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,3,1,1,white,2400,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,10,0,1,black,550,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,8,1,1,white,1650,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+phnom penh,pcx,3,0,1,white,2450,Gasoline,Auto,1,157,Yes,8,15.6,14.8,51
+phnom penh,pcx,6,0,1,black,1600,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,2,0,1,gray,2950,Gasoline,Auto,1,157,Yes,8,15.7,14.9,53
+phnom penh,pcx,8,0,1,white,1050,Gasoline,Auto,1,157,Yes,8,15.1,14.3,41
+kampong speu,pcx,10,0,1,white,1270,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+phnom penh,pcx,10,0,1,white,1350,Gasoline,Auto,1,157,Yes,8,14.9,14.1,37
+kampong speu,pcx,5,0,1,other,2050,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,pcx,6,0,1,white,1880,Gasoline,Auto,1,157,Yes,8,15.3,14.5,45
+phnom penh,pcx,5,0,1,white,2350,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+kandal,pcx,5,0,1,white,2200,Gasoline,Auto,1,157,Yes,8,15.4,14.6,47
+phnom penh,click,7,0,1,white,1130,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,7,0,1,white,1120,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,2,0,1,black,2190,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,3,0,1,white,1780,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,6,0,1,white,1250,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+siem reap,click,3,0,1,black,1755,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+siem reap,click,3,0,1,white,2042.5,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+siem reap,click,4,0,1,white,1710,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,6,0,1,black,900,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+siem reap,click,3,0,1,black,2099,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,4,0,1,black,1790,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,6,0,1,red,1250,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,3,0,1,white,2230,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,2,0,1,black,2080,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,1,0,1,white,2780,Gasoline,Auto,1,125,Yes,5.5,8.7,8.9,55
+phnom penh,click,2,0,1,red,2080,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,3,0,1,white,1685,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,2,0,1,white,2040,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,4,0,1,black,1580,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,3,0,1,black,1780,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,3,0,1,white,1777,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,10,0,1,white,800,Gasoline,Auto,1,125,Yes,5.5,7.8,8,37
+phnom penh,click,8,0,1,red,800,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+phnom penh,click,2,0,1,white,2070,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,3,0,1,red,1730,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,2,0,1,black,1617,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,0,1,white,990,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,7,0,1,red,1058.4,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,4,0,1,white,1499.4,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,6,0,1,gray,1303.4,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,6,0,1,white,1050,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+banteay meanchey,click,8,0,1,white,670,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+banteay meanchey,click,6,0,1,red,720,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,6,0,1,white,1080,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,9,0,1,white,880,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,6,0,1,white,1190,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,2,0,1,other,1780,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,0,1,red,1080,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,7,0,1,white,1145,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,7,0,1,white,1110,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,3,0,1,white,1760,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,3,0,1,red,1690,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,2,0,1,red,2030,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,4,0,1,black,1590,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,2,0,1,white,2090,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,4,0,1,red,1480,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,3,0,1,red,1845,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,7,0,1,other,1180,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,2,1,1,brown,1900,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,0,1,white,1080,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,3,0,1,white,1770,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,6,0,1,red,650,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,5,0,1,white,1699,Gasoline,Auto,1,125,Yes,5.5,8.3,8.5,47
+phnom penh,click,7,0,1,black,1060,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,7,0,1,white,1090,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,9,0,1,red,800,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,5,0,1,other,1200,Gasoline,Auto,1,125,Yes,5.5,8.3,8.5,47
+phnom penh,click,7,0,1,black,1050,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,4,0,1,white,1600,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,3,0,1,white,2300,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,6,0,1,white,1150,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,7,0,1,white,1065,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,4,0,1,white,1699,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,4,0,1,black,1470,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,4,0,1,red,1690,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,2,0,1,white,1950,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+siem reap,click,2,0,1,white,1850,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,6,0,1,black,980,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,2,0,1,white,1990,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,3,0,1,black,2100,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,6,0,1,white,1380,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,3,0,1,white,1980,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,7,0,1,black,1280,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,2,0,1,white,2180,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,8,0,1,black,750,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+phnom penh,click,4,0,1,blue,1680,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,2,0,1,black,1900,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,10,0,1,black,1000,Gasoline,Auto,1,125,Yes,5.5,7.8,8,37
+phnom penh,click,7,0,1,black,1180,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,5,0,1,gray,2080,Gasoline,Auto,1,125,Yes,5.5,8.3,8.5,47
+phnom penh,click,4,1,1,white,2389,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,2,1,1,white,2266,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,4,0,1,black,1399,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,3,0,1,white,2056,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,4,0,1,white,1888,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,2,0,1,white,1800,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,black,1680,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,0,1,white,1030,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,2,0,1,white,1940,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,black,1935,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,black,1970,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,red,1990,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+siem reap,click,4,0,1,red,1380,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,6,0,1,red,1200,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,7,0,1,black,1290,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,6,0,1,white,1560,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,3,0,1,red,1950,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,3,0,1,black,2230,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,6,0,1,white,1530,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,7,0,1,white,1280,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,6,0,1,black,920,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,4,0,1,white,1750,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,2,0,1,white,1930,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,8,0,1,white,530,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+kandal,click,6,0,1,white,1100,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+preah sihanouk,click,3,0,1,white,1000,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,6,0,1,white,650,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,6,0,1,white,680,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+siem reap,click,7,0,1,white,850,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,10,0,1,blue,780,Gasoline,Auto,1,125,Yes,5.5,7.8,8,37
+kandal,click,9,0,1,white,720,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,2,0,1,black,2050,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,other,1750,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,1,1,white,1000,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,9,0,1,white,850,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,4,0,1,other,1550,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,7,0,1,white,1020,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,6,0,1,white,1330,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,3,0,1,white,1550,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+siem reap,click,7,0,1,red,800,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,3,0,1,white,2050,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+pursat,click,2,0,1,white,2050,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,white,1900,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,1,1,black,770,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,3,0,1,orange,1100,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+siem reap,click,5,0,1,white,1280,Gasoline,Auto,1,125,Yes,5.5,8.3,8.5,47
+siem reap,click,3,0,1,white,1800,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,9,0,1,red,650,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,4,0,1,gray,1780,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,9,0,1,white,749,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,7,0,1,white,1060,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,3,0,1,white,850,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,2,0,1,white,2089,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,9,0,1,white,1000,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,2,0,1,red,2350,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,3,0,1,black,1490,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+kampong cham,click,6,0,1,white,880,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+siem reap,click,7,0,1,white,999,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,2,1,1,white,1700,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,white,1750,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,silver,2950,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,7,0,1,white,1260,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+banteay meanchey,click,3,0,1,blue,1650,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,7,0,1,white,1050,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+siem reap,click,4,0,1,white,1550,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,7,0,1,other,1200,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,6,0,1,white,1280,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+kampong thom,click,2,0,1,white,1900,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,2,0,1,white,2450,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+siem reap,click,3,0,1,white,2050,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+battambang,click,7,0,1,black,800,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+battambang,click,4,0,1,black,1680,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,4,1,1,white,2050,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,1,1,1,gray,1900,Gasoline,Auto,1,125,Yes,5.5,8.7,8.9,55
+phnom penh,click,7,1,1,white,1080,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,2,0,1,white,2210,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+pursat,click,6,0,1,black,1000,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,2,0,1,white,2500,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,9,0,1,red,720,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,9,0,1,red,666,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+banteay meanchey,click,6,0,1,white,1280,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,1,0,1,white,2880,Gasoline,Auto,1,125,Yes,5.5,8.7,8.9,55
+phnom penh,click,4,0,1,white,1500,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,5,0,1,black,1320,Gasoline,Auto,1,125,Yes,5.5,8.3,8.5,47
+siem reap,click,4,0,1,gray,1680,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+siem reap,click,4,0,1,black,1600,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,1,0,1,red,2900,Gasoline,Auto,1,125,Yes,5.5,8.7,8.9,55
+phnom penh,click,4,0,1,white,1450,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,8,0,1,red,1100,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+phnom penh,click,7,0,1,white,1000,Gasoline,Auto,1,125,Yes,5.5,8.1,8.3,43
+phnom penh,click,8,0,1,red,880,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+phnom penh,click,9,0,1,red,790,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+phnom penh,click,2,0,1,black,1750,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,6,0,1,black,1180,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,9,0,1,black,800,Gasoline,Auto,1,125,Yes,5.5,7.9,8.1,39
+kandal,click,6,0,1,white,1310,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+kandal,click,6,0,1,white,1380,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+kandal,click,6,0,1,white,1455,Gasoline,Auto,1,125,Yes,5.5,8.2,8.4,45
+phnom penh,click,3,1,1,black,1800,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,click,2,1,1,white,1750,Gasoline,Auto,1,125,Yes,5.5,8.6,8.8,53
+phnom penh,click,4,0,1,white,1550,Gasoline,Auto,1,125,Yes,5.5,8.4,8.6,49
+phnom penh,click,8,0,1,red,870,Gasoline,Auto,1,125,Yes,5.5,8,8.2,41
+phnom penh,click,3,1,1,white,1950,Gasoline,Auto,1,125,Yes,5.5,8.5,8.7,51
+phnom penh,zoomer-x,5,1,1,red,750,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,white,700,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,6,0,1,blue,740,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+siem reap,zoomer-x,6,0,1,gold,950,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,black,1020,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,white,720,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,8,0,1,white,650,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+phnom penh,zoomer-x,6,0,1,blue,750,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,white,640,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,black,880,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,white,780,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,blue,880,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,blue,850,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,black,990,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,8,0,1,blue,680,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+phnom penh,zoomer-x,5,0,1,white,780,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,white,1200,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,black,1060,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,blue,899,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,7,0,1,orange,720,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,black,1010,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,blue,1020,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,1,1,white,500,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,6,0,1,red,1050,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,white,820,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,white,950,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,black,580,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,red,550,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,other,750,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,white,900,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,other,700,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,6,0,1,red,690,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,blue,1190,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,white,1220,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,3,0,1,yellow,1450,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,3,0,1,white,1450,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,3,0,1,black,1299,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+siem reap,zoomer-x,5,0,1,red,950,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,black,1450,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,1,1,white,750,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,black,880,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,white,850,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,green,780,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,green,930,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,white,1168,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,white,670,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,3,0,1,white,1250,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+siem reap,zoomer-x,6,0,1,white,820,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+siem reap,zoomer-x,7,0,1,red,830,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,7,0,1,white,1000,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,6,0,1,white,850,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,7,0,1,white,756,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,blue,1188,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,1,1,red,1399,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,black,895,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,orange,880,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,blue,690,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,6,0,1,white,988,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,white,1080,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,1,1,red,690,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,black,850,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,white,790,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,white,1150,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,black,1150,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,8,0,1,white,449,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+phnom penh,zoomer-x,8,0,1,white,551,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+phnom penh,zoomer-x,8,0,1,white,620,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+siem reap,zoomer-x,3,0,1,black,1380,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,6,0,1,red,840,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,1,1,white,950,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+siem reap,zoomer-x,5,0,1,yellow,850,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,8,0,1,black,650,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+phnom penh,zoomer-x,5,0,1,white,1010,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+preah sihanouk,zoomer-x,5,0,1,black,750,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+banteay meanchey,zoomer-x,6,0,1,red,270,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+siem reap,zoomer-x,5,0,1,orange,990,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+kandal,zoomer-x,10,0,1,white,390,Gasoline,Auto,1,108.2,Yes,4.4,7.4,8.19,37
+koh kong,zoomer-x,6,0,1,red,320,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,8,0,1,red,550,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+phnom penh,zoomer-x,6,0,1,other,690,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,7,0,1,red,650,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,red,850,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,purple,850,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,3,0,1,black,1300,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,6,0,1,white,1080,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,black,1050,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,blue,815,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+preah sihanouk,zoomer-x,6,1,1,blue,840,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+prey veng,zoomer-x,6,0,1,red,800,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,7,0,1,red,1090,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,red,930,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,5,0,1,blue,930,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,white,800,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,green,550,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+preah sihanouk,zoomer-x,7,0,1,white,700,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,6,0,1,red,800,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,yellow,900,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,red,880,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,4,1,1,blue,1300,Gasoline,Auto,1,108.2,Yes,4.4,8,8.79,49
+phnom penh,zoomer-x,8,0,1,white,750,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+kandal,zoomer-x,6,0,1,orange,650,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+siem reap,zoomer-x,3,0,1,white,1600,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,5,0,1,white,1170,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+siem reap,zoomer-x,6,0,1,white,900,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,white,880,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,6,0,1,white,965,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+kampong speu,zoomer-x,7,0,1,black,423,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+siem reap,zoomer-x,6,0,1,purple,890,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+siem reap,zoomer-x,6,0,1,orange,859,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+preah sihanouk,zoomer-x,8,0,1,white,300,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+preah sihanouk,zoomer-x,7,0,1,white,790,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,white,1035,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,7,0,1,black,599,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+battambang,zoomer-x,5,0,1,red,900,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+siem reap,zoomer-x,3,0,1,black,1700,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+prey veng,zoomer-x,5,0,1,white,850,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,black,990,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+kampong cham,zoomer-x,6,0,1,white,350,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+battambang,zoomer-x,5,0,1,red,1020,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+siem reap,zoomer-x,7,0,1,blue,700,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,7,0,1,white,730,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,red,980,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,6,0,1,white,950,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,white,1608,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+kampong speu,zoomer-x,6,0,1,white,550,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,7,0,1,white,850,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,zoomer-x,5,0,1,red,800,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,9,0,1,blue,950,Gasoline,Auto,1,108.2,Yes,4.4,7.5,8.29,39
+phnom penh,zoomer-x,3,0,1,red,1400,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,3,0,1,white,950,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+kampong chhnang,zoomer-x,6,0,1,white,900,Gasoline,Auto,1,108.2,Yes,4.4,7.8,8.59,45
+phnom penh,zoomer-x,5,0,1,black,1250,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+phnom penh,zoomer-x,3,0,1,white,1190,Gasoline,Auto,1,108.2,Yes,4.4,8.1,8.89,51
+phnom penh,zoomer-x,8,0,1,black,720,Gasoline,Auto,1,108.2,Yes,4.4,7.6,8.39,41
+battambang,zoomer-x,5,0,1,white,1340,Gasoline,Auto,1,108.2,Yes,4.4,7.9,8.69,47
+banteay meanchey,zoomer-x,7,1,1,orange,550,Gasoline,Auto,1,108.2,Yes,4.4,7.7,8.49,43
+phnom penh,beat,4,0,1,blue,1320,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,5,0,1,other,1299,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,2,0,1,white,1590,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,blue,1620,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,white,1300,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+siem reap,beat,2,0,1,black,1480,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+siem reap,beat,2,0,1,white,1620,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,red,1600,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,blue,1350,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,black,1820,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,1,0,1,white,1650,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,5,0,1,blue,1220,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,2,0,1,red,1740,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,5,0,1,other,1200,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,1,0,1,red,1680,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,1,0,1,black,1650,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,4,0,1,blue,1280,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,blue,1300,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,red,1633.5,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,2,0,1,red,1568,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,red,1499.4,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,5,0,1,white,1499.4,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,2,0,1,white,1587.6,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,black,1568,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,5,0,1,red,1499.4,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,1,0,1,blue,1600,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,1,0,1,red,1690,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,1,0,1,black,1620,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,4,0,1,white,1320,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,black,1610,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,4,0,1,blue,1340,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,red,1440,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,5,0,1,blue,1350,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,2,0,1,blue,1600,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,blue,1660,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,other,1499,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,blue,1270,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,other,1190,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,blue,1400,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,blue,1480,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,black,1550,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,1,0,1,white,1630,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+siem reap,beat,1,0,1,red,2050,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,5,0,1,red,1250,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,2,0,1,red,1700,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,blue,1449,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,red,1450,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,blue,1699,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,1,0,1,black,1780,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,4,0,1,red,1600,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,5,0,1,red,1500,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,4,0,1,blue,1600,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,black,1750,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,4,1,1,red,1689,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,black,1888,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,5,0,1,red,1130,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,1,0,1,white,1670,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,2,0,1,blue,1560,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,white,1650,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,red,1670,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,1,0,1,red,1560,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,4,0,1,blue,1550,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,red,1200,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,white,1450,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,blue,1450,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,5,0,1,red,1350,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,4,0,1,blue,1390,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,6,0,1,white,1350,Gasoline,Auto,1,110,Yes,4,8.1,8.7,57.4
+phnom penh,beat,5,0,1,blue,1450,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,5,0,1,black,1180,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,2,0,1,red,1480,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,blue,1670,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,blue,1630,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,other,1620,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,black,1610,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,white,1680,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,red,1680,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,black,1580,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,silver,1610,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,silver,1580,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,1,1,blue,1680,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,red,1458,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,red,1450,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,white,870,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,blue,1780,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,2,0,1,blue,1440,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,blue,1650,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,blue,1570,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,2,0,1,black,1430.8,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,red,1750,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,2,0,1,white,1690,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,red,1250,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+kampong cham,beat,1,0,1,white,1920,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,1,0,1,blue,1700,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,beat,5,0,1,red,1400,Gasoline,Auto,1,110,Yes,4,8.2,8.8,58.7
+phnom penh,beat,4,0,1,red,1380,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,other,1500,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+takeo,beat,2,0,1,red,1450,Gasoline,Auto,1,110,Yes,4,8.5,9.11,62.5
+phnom penh,beat,4,0,1,white,880,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,4,0,1,blue,1430,Gasoline,Auto,1,110,Yes,4,8.3,8.9,60
+phnom penh,beat,1,0,1,red,1500,Gasoline,Auto,1,110,Yes,4,8.6,9.21,63.7
+phnom penh,msx grom,2,0,1,blue,1780,Gasoline,Manual,1,125,Yes,4.2,9.6,10.8,53
+phnom penh,msx grom,7,0,1,white,860,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,0,1,red,750,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,6,0,1,yellow,500,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,5,0,1,black,400,Gasoline,Manual,1,125,Yes,4.2,9.3,10.5,47
+phnom penh,msx grom,7,0,1,other,980,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,0,1,other,680,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,2,0,1,black,1680,Gasoline,Manual,1,125,Yes,4.2,9.6,10.8,53
+phnom penh,msx grom,8,0,1,blue,520,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,7,0,1,white,790,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,7,0,1,black,320,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+tboung khmum,msx grom,6,1,1,blue,1250,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,8,0,1,other,750,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,white,800,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,red,600,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+kandal,msx grom,5,1,1,black,350,Gasoline,Manual,1,125,Yes,4.2,9.3,10.5,47
+phnom penh,msx grom,7,0,1,white,980,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,0,1,white,580,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,yellow,520,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,white,600,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,white,500,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,white,550,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,7,0,1,black,750,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,0,1,black,350,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,7,0,1,black,1100,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,0,1,white,620,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,7,0,1,white,900,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,7,1,1,black,800,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,7,0,1,green,750,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,0,1,red,690,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+svay rieng,msx grom,6,0,1,black,230,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,7,1,1,white,750,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,1,1,white,330,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,purple,990,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,6,0,1,blue,1200,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,2,0,1,black,1630,Gasoline,Manual,1,125,Yes,4.2,9.6,10.8,53
+phnom penh,msx grom,7,0,1,red,715,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,7,0,1,white,1200,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,6,0,1,black,420,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,6,0,1,black,1800,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,7,0,1,white,650,Gasoline,Manual,1,125,Yes,4.2,9.1,10.3,43
+phnom penh,msx grom,8,1,1,red,690,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+kampot,msx grom,8,0,1,white,790,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,black,550,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,3,1,1,red,750,Gasoline,Manual,1,125,Yes,4.2,9.5,10.7,51
+phnom penh,msx grom,8,0,1,other,450,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+phnom penh,msx grom,8,0,1,white,750,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+kampong speu,msx grom,8,0,1,white,250,Gasoline,Manual,1,125,Yes,4.2,9,10.2,41
+preah sihanouk,msx grom,6,0,1,black,700,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,msx grom,6,0,1,red,1400,Gasoline,Manual,1,125,Yes,4.2,9.2,10.4,45
+phnom penh,cbr,7,0,1,white,2150,Gasoline,Manual,2,160,No,13,125,73,16
+siem reap,cbr,8,0,1,black,1572.5,Gasoline,Manual,2,160,No,13,125,73,15
+siem reap,cbr,8,0,1,blue,1800,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,8,0,1,black,1480,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,8,0,1,black,1450,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,4,0,1,black,1500,Gasoline,Manual,2,160,No,13,125,73,19
+phnom penh,cbr,7,0,1,other,1650,Gasoline,Manual,2,160,No,13,125,73,16
+phnom penh,cbr,4,0,1,black,1750,Gasoline,Manual,2,160,No,13,125,73,19
+phnom penh,cbr,8,0,1,white,980,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,8,0,1,black,550,Gasoline,Manual,2,160,No,13,125,73,15
+siem reap,cbr,8,0,1,red,850,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,8,0,1,red,600,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,9,1,1,red,3850,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,6,1,1,yellow,3800,Gasoline,Manual,2,160,No,13,125,73,17
+phnom penh,cbr,3,1,1,black,1999,Gasoline,Manual,2,160,No,13,125,73,20
+phnom penh,cbr,8,0,1,black,950,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,6,0,1,white,1666,Gasoline,Manual,2,160,No,13,125,73,17
+banteay meanchey,cbr,2,0,1,black,2800,Gasoline,Manual,2,160,No,13,125,73,21
+phnom penh,cbr,8,0,1,white,1090,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,4,0,1,yellow,1990,Gasoline,Manual,2,160,No,13,125,73,19
+phnom penh,cbr,6,0,1,red,1499,Gasoline,Manual,2,160,No,13,125,73,17
+kampong cham,cbr,9,0,1,black,1300,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,10,0,1,black,1499,Gasoline,Manual,2,160,No,13,125,73,13
+kampot,cbr,8,0,1,red,2500,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,9,0,1,black,790,Gasoline,Manual,2,160,No,13,125,73,14
+siem reap,cbr,2,0,1,black,3350,Gasoline,Manual,2,160,No,13,125,73,21
+kandal,cbr,9,0,1,black,790,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,9,0,1,black,1499,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,7,0,1,white,660,Gasoline,Manual,2,160,No,13,125,73,16
+phnom penh,cbr,9,0,1,white,1800,Gasoline,Manual,2,160,No,13,125,73,14
+siem reap,cbr,7,0,1,white,1200,Gasoline,Manual,2,160,No,13,125,73,16
+phnom penh,cbr,7,0,1,black,1600,Gasoline,Manual,2,160,No,13,125,73,16
+phnom penh,cbr,8,0,1,black,800,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,9,0,1,orange,2350,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,4,0,1,black,2000,Gasoline,Manual,2,160,No,13,125,73,19
+takeo,cbr,9,0,1,black,1300,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,8,0,1,white,850,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,9,1,1,red,955,Gasoline,Manual,2,160,No,13,125,73,14
+phnom penh,cbr,7,0,1,red,800,Gasoline,Manual,2,160,No,13,125,73,16
+kampong cham,cbr,8,0,1,white,850,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,5,0,1,black,798,Gasoline,Manual,2,160,No,13,125,73,18
+phnom penh,cbr,8,0,1,black,1370,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,cbr,4,0,1,red,3950,Gasoline,Manual,2,160,No,13,125,73,19
+preah sihanouk,cbr,7,0,1,black,700,Gasoline,Manual,2,160,No,13,125,73,16
+phnom penh,cbr,8,0,1,other,1350,Gasoline,Manual,2,160,No,13,125,73,15
+phnom penh,adv,2,0,1,white,3700,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,red,3550,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,1,1,white,3680,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,0,1,white,3950,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,other,3600,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,1,1,black,4250,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,white,3899,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,4,0,1,gray,3200,Gasoline,Auto,1,149.3,Yes,8,13,13.2,42
+phnom penh,adv,3,0,1,gray,3350,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,1,1,black,3800,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,1,1,black,4150,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,white,3849,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,0,1,white,3180,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,0,1,white,3580,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,0,1,brown,3700,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,1,1,gray,3939,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,1,1,black,4256,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,1,1,black,3888,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,1,1,white,4256,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,1,1,white,3888,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,1,1,gold,3789,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,0,1,black,3970,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,1,1,black,2900,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,red,3850,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,red,3680,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,4,0,1,brown,3150,Gasoline,Auto,1,149.3,Yes,8,13,13.2,42
+phnom penh,adv,2,0,1,black,3880,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,1,1,gold,4250,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,0,1,white,4000,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,black,3950,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,0,1,red,3100,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+kandal,adv,3,0,1,red,3450,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,0,1,gold,3580,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,0,1,gold,4200,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,1,1,white,4250,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,0,1,black,4150,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,0,1,brown,3800,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,0,1,white,3520,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,0,1,red,3650,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,1,1,white,4300,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,3,0,1,red,3730,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,0,1,silver,3770,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,2,1,1,black,4200,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,adv,3,0,1,silver,3600,Gasoline,Auto,1,149.3,Yes,8,13.5,13.4,43
+phnom penh,adv,2,0,1,black,3530,Gasoline,Auto,1,149.3,Yes,8,14,13.6,44
+phnom penh,wave,7,0,1,black,850,Gasoline,Manual,1,110,Yes,4,7.7,7.4,43
+phnom penh,wave,10,0,1,black,670,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+phnom penh,wave,10,0,1,gray,650,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+phnom penh,wave,10,0,1,black,680,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+phnom penh,wave,1,0,1,black,1199,Gasoline,Manual,1,110,Yes,4,8.3,8.6,55
+phnom penh,wave,1,0,1,black,1450,Gasoline,Manual,1,110,Yes,4,8.3,8.6,55
+phnom penh,wave,10,0,1,black,770,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+phnom penh,wave,2,0,1,black,1130,Gasoline,Manual,1,110,Yes,4,8.2,8.4,53
+phnom penh,wave,5,0,1,red,300,Gasoline,Manual,1,110,Yes,4,7.9,7.8,47
+phnom penh,wave,7,0,1,black,295,Gasoline,Manual,1,110,Yes,4,7.7,7.4,43
+phnom penh,wave,9,0,1,red,680,Gasoline,Manual,1,110,Yes,4,7.5,7,39
+phnom penh,wave,9,0,1,black,900,Gasoline,Manual,1,110,Yes,4,7.5,7,39
+phnom penh,wave,8,0,1,other,480,Gasoline,Manual,1,110,Yes,4,7.6,7.2,41
+phnom penh,wave,4,0,1,black,1200,Gasoline,Manual,1,110,Yes,4,8,8,49
+phnom penh,wave,6,0,1,red,1580,Gasoline,Manual,1,110,Yes,4,7.8,7.6,45
+phnom penh,wave,1,0,1,black,1180,Gasoline,Manual,1,110,Yes,4,8.3,8.6,55
+phnom penh,wave,9,0,1,red,900,Gasoline,Manual,1,110,Yes,4,7.5,7,39
+siem reap,wave,1,0,1,black,1350,Gasoline,Manual,1,110,Yes,4,8.3,8.6,55
+phnom penh,wave,8,0,1,white,560,Gasoline,Manual,1,110,Yes,4,7.6,7.2,41
+banteay meanchey,wave,8,0,1,red,850,Gasoline,Manual,1,110,Yes,4,7.6,7.2,41
+koh kong,wave,6,0,1,black,250,Gasoline,Manual,1,110,Yes,4,7.8,7.6,45
+siem reap,wave,4,0,1,black,965,Gasoline,Manual,1,110,Yes,4,8,8,49
+phnom penh,wave,6,1,1,white,900,Gasoline,Manual,1,110,Yes,4,7.8,7.6,45
+phnom penh,wave,10,0,1,black,660,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+svay rieng,wave,2,0,1,blue,680,Gasoline,Manual,1,110,Yes,4,8.2,8.4,53
+phnom penh,wave,4,0,1,red,880,Gasoline,Manual,1,110,Yes,4,8,8,49
+phnom penh,wave,1,0,1,black,1250,Gasoline,Manual,1,110,Yes,4,8.3,8.6,55
+phnom penh,wave,10,0,1,red,750,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+phnom penh,wave,2,1,1,blue,1900,Gasoline,Manual,1,110,Yes,4,8.2,8.4,53
+takeo,wave,6,0,1,white,300,Gasoline,Manual,1,110,Yes,4,7.8,7.6,45
+phnom penh,wave,1,0,1,black,1170,Gasoline,Manual,1,110,Yes,4,8.3,8.6,55
+koh kong,wave,7,0,1,red,240,Gasoline,Manual,1,110,Yes,4,7.7,7.4,43
+phnom penh,wave,8,0,1,red,950,Gasoline,Manual,1,110,Yes,4,7.6,7.2,41
+banteay meanchey,wave,2,0,1,red,1050,Gasoline,Manual,1,110,Yes,4,8.2,8.4,53
+banteay meanchey,wave,2,0,1,black,1050,Gasoline,Manual,1,110,Yes,4,8.2,8.4,53
+phnom penh,wave,4,0,1,black,950,Gasoline,Manual,1,110,Yes,4,8,8,49
+battambang,wave,8,0,1,white,850,Gasoline,Manual,1,110,Yes,4,7.6,7.2,41
+preah sihanouk,wave,4,0,1,black,850,Gasoline,Manual,1,110,Yes,4,8,8,49
+phnom penh,wave,10,0,1,red,730,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+phnom penh,wave,6,0,1,black,850,Gasoline,Manual,1,110,Yes,4,7.8,7.6,45
+phnom penh,wave,6,0,1,black,670,Gasoline,Manual,1,110,Yes,4,7.8,7.6,45
+phnom penh,wave,4,0,1,black,111,Gasoline,Manual,1,110,Yes,4,8,8,49
+kampong thom,wave,10,0,1,black,700,Gasoline,Manual,1,110,Yes,4,7.4,6.8,37
+kandal,wave,4,0,1,black,1050,Gasoline,Manual,1,110,Yes,4,8,8,49
+phnom penh,wave,3,0,1,black,1400,Gasoline,Manual,1,110,Yes,4,8.1,8.2,51

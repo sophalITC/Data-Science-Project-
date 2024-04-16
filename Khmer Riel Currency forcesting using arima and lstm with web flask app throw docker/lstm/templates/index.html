@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Time Series Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+        .container {
+            margin-top: 30px;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Khmer Riel Prediction</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="http://127.0.0.1:8888/">ARIMA and ETS <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown link
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+    <div class="container">
+        <div class="plot">
+            <h1>Predicted Prices for the Next {{ selected_days }} Days</h1>
+
+            <form method="POST" action="/">
+                <div class="form-group">
+                    <label for="predictionDays">Enter number of days:</label>
+                    <input type="number" id="predictionDays" name="predictionDays" class="form-control">
+                </div>
+                <center>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </center>
+            </form>
+
+
+            <div class="h-100 d-flex align-items-center justify-content-center">
+                <img src="data:image/png;base64,{{ plot }}" alt="Actual vs. Predicted Prices" class="img-rounded">
+            </div>
+        </div>
+
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th scope="col">Date</th>
+                    <th scope="col">Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% set max_len = dates|length if dates|length >= prices|length else prices|length %}
+                {% for i in range(max_len) %}
+                <tr>
+                    <td>{{ dates[i] if i < dates|length else '' }}</td>
+                    <td>{{ prices[i][0] if i < prices|length else '' }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
