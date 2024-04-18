@@ -22,7 +22,7 @@ This repository is a collection of term projects by my students focused on data 
 - **[Outlier Detection and Treatment](./Outlier%20detection%20and%20treatment)**: Focuses on identifying and handling outliers in datasets.
 - **[Phone Price Analysis](./Phone%20Price%20analysis)**: Analyzes smartphone pricing trends and predictions.
 - **[Used Car Price Prediction](./Used%20Car%20Price%20Prediction)**: Predicts prices of used cars based on various influencing factors.
-- ** [and more in the directory](https://github.com/sophalITC/Dataset_for_datasci.git)** 
+- ### [and more in the directory](https://github.com/sophalITC/Data-Science-Project-) 
 
 ## Technologies Used
 
